@@ -1,0 +1,29 @@
+{
+  "name": "sanke-wound",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server",
+    "build": "webpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasanzare/snake-wound.git"
+  },
+  "author": "sasan zare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasanzare/snake-wound/issues"
+  },
+  "homepage": "https://github.com/sasanzare/snake-wound#readme",
+  "dependencies": {
+    "copy-webpack-plugin": "^12.0.2",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^5.2.0"
+  }
+}
